@@ -106,6 +106,10 @@ PRODUCT_PACKAGES += \
     Rubik-Medium.ttf \
     Rubik-Regular.ttf
 
+# Oppo Sans Family
+PRODUCT_PACKAGES += \
+    OppoSans-En-Regular.ttf
+
 # Customization overlays
 PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
@@ -118,7 +122,8 @@ PRODUCT_PACKAGES += \
     FontGoogleSansGoogleSansOverlay \
     FontArbutusSourceOverlay \
     FontRedHatDisplayOverlay \
-    FontRubikRubikOverlay
+    FontRubikRubikOverlay \
+    FontOppoSansOverlay
 
 PRODUCT_COPY_FILES += \
     vendor/ssos/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml

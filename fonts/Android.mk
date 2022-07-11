@@ -83,6 +83,7 @@ font_src_files := \
     OnePlusSans-BlackItalic.ttf \
     OnePlusSans-Bold.ttf \
     OnePlusSans-BoldItalic.ttf \
+    OppoSans-En-Regular.ttf \
     RedHatDisplay-BlackItalic.ttf \
     RedHatDisplay-Black.ttf \
     RedHatDisplay-BoldItalic.ttf \
