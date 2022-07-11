@@ -53,6 +53,18 @@ font_src_files := \
     GoogleSans-MediumItalic.ttf \
     GoogleSans-Medium.ttf \
     GoogleSans-Regular.ttf \
+    HarmonyOS-Sans-Thin.ttf \
+    HarmonyOS-Sans-ThinItalic.ttf \
+    HarmonyOS-Sans-Light.ttf \
+    HarmonyOS-Sans-LightItalic.ttf \
+    HarmonyOS-Sans-Regular.ttf \
+    HarmonyOS-Sans-Italic.ttf \
+    HarmonyOS-Sans-Medium.ttf \
+    HarmonyOS-Sans-MediumItalic.ttf \
+    HarmonyOS-Sans-Bold.ttf \
+    HarmonyOS-Sans-BoldItalic.ttf \
+    HarmonyOS-Sans-Black.ttf \
+    HarmonyOS-Sans-BlackItalic.ttf \
     Inter-Black.otf \
     Inter-ExtraBold.otf \
     Inter-Italic.otf \

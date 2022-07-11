@@ -110,6 +110,21 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OppoSans-En-Regular.ttf
 
+# HarmonyOS Sans Family
+PRODUCT_PACKAGES += \
+    HarmonyOS-Sans-Thin.ttf \
+    HarmonyOS-Sans-ThinItalic.ttf \
+    HarmonyOS-Sans-Light.ttf \
+    HarmonyOS-Sans-LightItalic.ttf \
+    HarmonyOS-Sans-Regular.ttf \
+    HarmonyOS-Sans-Italic.ttf \
+    HarmonyOS-Sans-Medium.ttf \
+    HarmonyOS-Sans-MediumItalic.ttf \
+    HarmonyOS-Sans-Bold.ttf \
+    HarmonyOS-Sans-BoldItalic.ttf \
+    HarmonyOS-Sans-Black.ttf \
+    HarmonyOS-Sans-BlackItalic.ttf
+
 # Customization overlays
 PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
@@ -123,7 +138,8 @@ PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
     FontRedHatDisplayOverlay \
     FontRubikRubikOverlay \
-    FontOppoSansOverlay
+    FontOppoSansOverlay \
+    FontHarmonySansOverlay
 
 PRODUCT_COPY_FILES += \
     vendor/ssos/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
