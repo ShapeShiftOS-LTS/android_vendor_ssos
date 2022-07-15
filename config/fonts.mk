@@ -125,8 +125,18 @@ PRODUCT_PACKAGES += \
     HarmonyOS-Sans-Black.ttf \
     HarmonyOS-Sans-BlackItalic.ttf
 
+# Fluid Sans Family
+PRODUCT_PACKAGES += \
+    FluidSans-Bold.ttf \
+    FluidSans-BoldItalic.ttf \
+    FluidSans-Italic.ttf \
+    FluidSans-Medium.ttf \
+    FluidSans-MediumItalic.ttf \
+    FluidSans-Regular.ttf
+
 # Customization overlays
 PRODUCT_PACKAGES += \
+    FontFluidSansOverlay \
     FontGoogleSansOverlay \
     FontSlateForOnePlusOverlay \
     FontSlateForOnePlusLightOverlay \

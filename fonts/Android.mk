@@ -33,6 +33,12 @@ $(eval include $(BUILD_PREBUILT))
 endef
 
 font_src_files := \
+    FluidSans-Bold.ttf \
+    FluidSans-BoldItalic.ttf \
+    FluidSans-Italic.ttf \
+    FluidSans-Medium.ttf \
+    FluidSans-MediumItalic.ttf \
+    FluidSans-Regular.ttf \
     Linotte-Light.ttf \
     Linotte-Bold.ttf \
     Linotte-Regular.ttf \
