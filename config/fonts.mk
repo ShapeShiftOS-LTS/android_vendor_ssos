@@ -137,6 +137,7 @@ PRODUCT_PACKAGES += \
 # Customization overlays
 PRODUCT_PACKAGES += \
     FontFluidSansOverlay \
+    FontFluidSansRobotoOverlay \
     FontGoogleSansOverlay \
     FontSlateForOnePlusOverlay \
     FontSlateForOnePlusLightOverlay \
