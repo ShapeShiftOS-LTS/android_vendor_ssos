@@ -136,21 +136,22 @@ PRODUCT_PACKAGES += \
 
 # Customization overlays
 PRODUCT_PACKAGES += \
+    FontArbutusSourceOverlay \
     FontFluidSansOverlay \
     FontFluidSansRobotoOverlay \
     FontGoogleSansOverlay \
+    FontGoogleSansGoogleSansOverlay \
+    FontGoogleSansRobotoOverlay \
+    FontHarmonySansOverlay \
+    FontOnePlusSansOverlay \
+    FontOnePlusSansLightOverlay \
+    FontOppoSansOverlay \
+    FontRedHatDisplayOverlay \
+    FontRubikRubikOverlay \
     FontSlateForOnePlusOverlay \
     FontSlateForOnePlusLightOverlay \
     LinotteFont \
-    ManropeFont \
-    FontOnePlusSansOverlay \
-    FontOnePlusSansLightOverlay \
-    FontGoogleSansGoogleSansOverlay \
-    FontArbutusSourceOverlay \
-    FontRedHatDisplayOverlay \
-    FontRubikRubikOverlay \
-    FontOppoSansOverlay \
-    FontHarmonySansOverlay
+    ManropeFont
 
 PRODUCT_COPY_FILES += \
     vendor/ssos/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
