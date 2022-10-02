@@ -12,6 +12,6 @@
     limitations under the License.
 -->
 <resources>
-    <!-- Headline / Fluid Sans/Roboto overlay -->
-    <string name="font_fluid_sans_roboto_overlay" translatable="false">Google Sans / Roboto</string>
+    <!-- Headline / Google Sans/Roboto overlay -->
+    <string name="font_google_sans_roboto_overlay" translatable="false">Google Sans / Roboto</string>
 </resources>
